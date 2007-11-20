@@ -1,0 +1,19 @@
+=pod
+
+=head1 Lorem ipsum dolor sit amet
+
+Lorem I<ipsum> dolor sit amet.
+
+=over 4
+
+=item * cat's meow
+
+=item * dog
+
+=item * bird
+
+=back
+
+This is the last paragraph.
+
+=cut

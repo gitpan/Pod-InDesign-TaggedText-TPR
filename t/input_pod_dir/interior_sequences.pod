@@ -1,0 +1,10 @@
+=pod
+
+=head1 Lorem ipsum dolor sit amet
+
+Lorem I<ipsum> dolor sit amet, C<consectetuer> adipiscing elit. Nunc
+volutpat faucibus lorem. In pellentesque tortor ac leo. Aenean sit
+amet justo sed orci egestas sodales. Aenean risus sapien, pulvinar ut,
+ultrices dictum, varius sit amet, B<tellus>. 
+
+=cut

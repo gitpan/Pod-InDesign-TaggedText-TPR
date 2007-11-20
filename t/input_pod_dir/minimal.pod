@@ -1,0 +1,20 @@
+=pod
+
+=head1 Lorem ipsum dolor sit amet
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc
+volutpat faucibus lorem. In pellentesque tortor ac leo. Aenean sit
+amet justo sed orci egestas sodales. Aenean risus sapien, pulvinar ut,
+ultrices dictum, varius sit amet, tellus. 
+
+	#!/usr/bin/perl
+	print "Hello world!\n";
+
+Ut suscipit libero nec nunc. Curabitur eget elit. Quisque vehicula
+massa eget lorem. Praesent magna. Nunc at sem vel lectus ornare
+scelerisque. Vivamus in elit non risus laoreet tincidunt. Vestibulum
+vehicula pretium tellus. Quisque erat lacus, condimentum ut, rhoncus
+vitae, consectetuer eu, nisi. Maecenas non purus eu felis aliquam
+volutpat. In quis est at mi iaculis congue.
+
+=cut

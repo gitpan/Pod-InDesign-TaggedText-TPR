@@ -1,0 +1,6 @@
+0.10 - Tue Nov 20 08:31:46 2007
+	* initial release to turn Pod into the Tagged Text format that
+	The Perl Review uses
+	* This probably isn't directly useful to you, but you can use
+	it as an example subclass of Pod::InDesign::TaggedText
+
